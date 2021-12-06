@@ -1,0 +1,91 @@
+body{
+    background-color: rgb(58, 199, 255);
+    margin: 0
+}
+
+.header{
+    background-color: white;
+    padding: 15px;
+    border-style: solid;
+    border-width: 0px 0px 3px 0px;
+    border-color: rgb(167, 163, 163)
+}
+
+.headerbutton{
+    text-align: center;
+    background-color: rgb(5, 150, 207);
+    border-style: solid;
+    border-color: rgb(167, 163, 163);
+    border-width: 1px;
+    margin: 5px;
+    width: 5%;
+    height: 30px;
+    font-size: 13px;
+    color:white;
+    border-radius: 5px;
+    position: relative;
+    left: 1675px
+}
+
+.headerbutton:hover{
+    background-color: rgb(71, 192, 240)
+}
+
+h1{
+    text-align: left;
+    color: black
+}
+
+#signupbox{
+    background-color: white;
+    color: rgb(138, 132, 132);
+    box-shadow: 5px 5px;
+    border-style: outset;
+    border-width: 2px;
+    border-radius: 5px;
+    padding: 20px 0px 30px 30px;
+    margin-top: 70px;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+.InputBox{
+    height: 75%;
+    margin: 5px;
+    text-align: left
+}
+
+input{
+    width: 80%;
+    height: 30px;
+}
+
+#submitbutton1{
+    text-align: center;
+    background-color: rgb(5, 150, 207);
+    border-style: solid;
+    border-color: rgb(167, 163, 163);
+    border-width: 1px;
+    margin: 5px;
+    width: 80%;
+    height: 30px;
+    font-size: 13px;
+    color:white;
+    border-radius: 5px
+}
+
+#submitbutton1:hover{
+    background-color: rgb(71, 192, 240)
+}
+
+#fivebuttons{
+    margin: 20px 0px 0px 25px
+}
+
+.round{
+    border-style: solid;
+    border-color: rgb(167, 163, 163);
+    border-width: 1px;
+    border-radius: 50px;
+    margin: 0px 5px 0px 0px
+}
